@@ -1,0 +1,27 @@
+nav {
+  background: rgb(4, 28, 64);
+  background: linear-gradient(0deg, rgba(4, 28, 64, 1) 0%, rgba(9, 164, 208, 1) 100%);
+}
+
+img {
+  width: 100%;
+}
+img,
+.img-emo {
+  width: 70%;
+  box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.12), 0px 6px 10px 3px rgba(0, 0, 0, 0.22), 0px 9px 14px 3px rgba(0, 0, 0, 0.2), 0px 18px 16px 6px rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  border-radius: 2rem;
+}
+.profil {
+  margin-top: 2rem;
+  background: rgb(4, 28, 64);
+  background: linear-gradient(0deg, rgba(4, 28, 64, 1) 0%, rgba(9, 164, 208, 1) 100%);
+}
+
+.btn{
+  transition:  9s;
+  background: rgb(4, 28, 64);
+  background: linear-gradient(0deg, rgba(4, 28, 64, 1) 0%, rgba(9, 164, 208, 1) 100%);
+}
+
